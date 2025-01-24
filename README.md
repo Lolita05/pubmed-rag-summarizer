@@ -1,5 +1,7 @@
 # PubMed Article Summarizer
 
+![App Screenshot](image/pubmed_summarizer_image.png)
+
 **PubMed Article Summarizer** is an easy-to-use application designed to help users quickly find and summarize scientific literature on topics of interest. Leveraging OpenAI's powerful language models and PubMed's comprehensive database, this tool streamlines the research process, enabling users to gain concise insights from vast amounts of scientific data.
 
 ## Table of Contents
