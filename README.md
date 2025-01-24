@@ -24,8 +24,8 @@ Ensure you have [Python 3.12](https://www.python.org/downloads/) installed on yo
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/pubmed-article-summarizer.git
-    cd pubmed-article-summarizer
+    git clone https://github.com/Lolita05/pubmed-rag-summarizer.git
+    cd pubmed-rag-summarizer
     ```
 
 2. **Install Dependencies:**
